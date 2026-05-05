@@ -8,7 +8,7 @@
 
 * 🎓 B.Tech in Robotics & AI
 * 💻 Full Stack Developer passionate about building **end-to-end scalable applications**
-* 🌱 Currently strengthening skills in **Python, backend systems, and APIs**
+* 🌱 Currently strengthening skills in **Java, backend systems, and APIs**
 * 🧠 Exploring **AI, Computer Vision, and system design**
 
 ---
@@ -17,8 +17,8 @@
 
 * 💡 Languages: Java, Python, JavaScript
 * 🌐 Frontend: HTML, CSS, JavaScript
-* ⚙️ Backend: Node.js / Python (Flask or Django if you're using them)
-* 🗄️ Database: MySQL / MongoDB
+* ⚙️ Backend: Node.js / Python / Express.js
+* 🗄️ Database: MySQL / MongoDB / PostgreSQL
 * 🛠️ Tools: Git, GitHub, VS Code
 
 ---
